@@ -1,0 +1,6 @@
+{
+  "name": "Boltpoint Logistics",
+  "description": "Florida's premium 24/7/365 HIPAA-compliant enterprise logistics and medical courier partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
